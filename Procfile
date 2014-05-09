@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/BootQeyfi-1.0-SNAPSHOT.war
