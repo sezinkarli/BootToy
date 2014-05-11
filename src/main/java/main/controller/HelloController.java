@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * @author trkarlis (sezin.karli@eu.sony.com)
+ * @author sezin karli (skarligmail.com)
  * @since 3/19/14 3:42 PM
  *        User: Sezin Karli
  */

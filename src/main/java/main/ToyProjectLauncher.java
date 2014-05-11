@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author trkarlis (sezin.karli@eu.sony.com)
+ * @author sezin karli (skarligmail.com)
  * @since 3/19/14 9:26 AM
  *        User: Sezin Karli
  */
